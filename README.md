@@ -4,4 +4,4 @@
 
 ![Screenshot](screenshot.png)
 
-Página desenvolvida durante o curso de [HTML e CSS](https://cursos.alura.com.br/course/html-css-praticando-html-css) da [Alura](www.alura.com.br)
+Página desenvolvida durante o curso de [HTML e CSS](https://cursos.alura.com.br/course/html-css-praticando-html-css) da [Alura](https://www.alura.com.br)
